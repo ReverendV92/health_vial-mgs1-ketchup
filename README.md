@@ -11,6 +11,7 @@ Replaces the HL2 health vial with Otacon's ketchup bottle from MGS1.
 
 # Other Versions
 * [Garry's Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=3161609901)
+* [GitHub](https://github.com/ReverendV92/health_vial-mgs1-ketchup)
 * [Half-Life 2](https://gamebanana.com/mods/495964)
 * [Obsidian Conflict](https://steamcommunity.com/sharedfiles/filedetails/?id=3161613723)
 * [Synergy](https://steamcommunity.com/sharedfiles/filedetails/?id=3161612711)
